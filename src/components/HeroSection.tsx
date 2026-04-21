@@ -88,7 +88,7 @@ const HeroSection = () => {
               className="interactive-card group relative rounded-2xl border border-cyan-300/30 bg-black/40 p-2 shadow-[0_20px_60px_rgba(34,211,238,0.15)] backdrop-blur-sm"
             >
               <img
-                src="/lovable-uploads/e00c383b-fb7c-4c17-8e45-84da4c064da5.png"
+                src="/assets/featured-visual.png"
                 alt="Featured portfolio visual"
                 className="h-auto w-full rounded-xl"
               />
