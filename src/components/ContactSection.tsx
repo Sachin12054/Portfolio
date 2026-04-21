@@ -143,7 +143,7 @@ const ContactSection = () => {
                 <p className="text-white/80 flex items-center"><MapPinIcon className="w-4 h-4 mr-2 text-neon-cyan" />Location: <span className="text-white ml-1">India</span></p>
                 <p className="text-white/80 flex items-center"><MailIcon className="w-4 h-4 mr-2 text-neon-cyan" />Email: <a href="mailto:sachin11jg@gmail.com" className="text-neon-cyan hover:underline ml-1">sachin11jg@gmail.com</a></p>
                 <p className="text-white/80">GitHub: <a href="https://github.com/Sachin12054" target="_blank" rel="noopener noreferrer" className="text-neon-cyan hover:underline">Sachin12054</a></p>
-                <p className="text-white/80">LinkedIn: <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer" className="text-neon-cyan hover:underline">Add your LinkedIn profile URL</a></p>
+                <p className="text-white/80">LinkedIn: <a href="https://www.linkedin.com/in/kishore-sachin-j-g-bb1897355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="text-neon-cyan hover:underline">kishore-sachin-j-g-bb1897355</a></p>
               </div>
             </div>
             
@@ -158,7 +158,7 @@ const ContactSection = () => {
                   <span className="mt-2 text-sm text-white/60 group-hover:text-white transition-colors duration-300">GitHub</span>
                 </a>
                 
-                <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center group">
+                <a href="https://www.linkedin.com/in/kishore-sachin-j-g-bb1897355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center group">
                   <div className="w-12 h-12 rounded-full flex items-center justify-center bg-darker transition-transform duration-300 group-hover:scale-110 group-hover:shadow-neon-magenta">
                     <LinkedinIcon className="w-6 h-6 text-white/80 group-hover:text-neon-magenta transition-colors duration-300" />
                   </div>
